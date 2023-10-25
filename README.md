@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🖤
 
-<!--
-**Luciano1cora/luciano1cora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é luciano
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- ultiliso esse epaço para minha organização e compartilhamento dos meus progetos desnvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você pode entrar em contato comigo 📫
+
+- luciano.vani@escola.pr.gov.br
+
+![](https://media.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif)
